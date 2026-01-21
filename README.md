@@ -69,6 +69,25 @@
 
 ###
 
+###
+
+<h2 align="left">Personal Projects</h2>
+
+###
+
+| Project Name | Key Concepts | Grade | Languages/tech used |
+|:---:|:---:|:---:|:---:|
+| [**Reuniões AL**](https://github.com/sylvzzz/Plataforma-de_Agenda) | Simple Full Stack `CRUD` WebApp similar to google calendar for scheduling meetings | 20/20 ✔️ | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40" height="40"/>|
+| [**Plano Anual de Atividades**](https://github.com/sylvzzz/Plano-Anual-de-Atividades) | Simple Full Stack `CRUD` WebApp similar to google calendar for student activities | 20/20 ✔️ | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40" height="40"/>| |
+| [**Quizzes AL**](https://github.com/sylvzzz/Quizzes) | Full Stack WebApp for Quizzes with a goal to dynamize  using `static variables` | 20/20 ✔️ | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40" height="40"/>| |
+| [**PAP 2025**](https://github.com/sylvzzz/Quizzes) | Full Stack Social Media WebApp destined for my high school with a goal of connecting the school community | 17/20 ✔️ | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40" height="40"/>|
+
+###
+
+<h2 align="left">42 Projects</h2>
+
+###
+
 | Project Name | Key Concepts | Grade | Languages/tech used |
 |:---:|:---:|:---:|:---:|
 | [**Libft**](https://github.com/sylvzzz/42-libft) | Custom C library using `malloc`, `free`, linked lists and pointers | 125 ✔️ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> |

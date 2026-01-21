@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ 🔭 I’m currently focusing on 42 common core and personal projects.<br><br>📚  I’m currently learning C, Python, NodeJS, Tailwind and among others.<br><br>🎯 My goal is to become as productive and autonomous as possible i can be as a developer and i'm always willing to learn more about tech and software.<br><br>📩 Reach me via E-Mail: diogolbsilva2006@gmail.com</p>
+<p align="left">✨ 🔭 I’m currently focusing on 42 common core and personal projects.<br><br>📚  I’m currently learning C, Python, NodeJS, Tailwind and among others.<br><br>🎯 My goal is to become as productive and autonomous as possible. I'm always willing to learn more about tech and software.<br><br>📩 Reach me via E-Mail: diogolbsilva2006@gmail.com</p>
 
 ###
 

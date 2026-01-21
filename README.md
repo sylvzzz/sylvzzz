@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ 🔭 I’m currently focusing on 42 common core and personal projects.<br><br>📚  I’m currently learning C, Python, NodeJS, Tailwind and among others.<br><br>🎯 My goal is to become as productive and autonomous as possible i can be as a developer and i'm always willing to learn more about tech and software.</p>
+<p align="left">✨ 🔭 I’m currently focusing on 42 common core and personal projects.<br><br>📚  I’m currently learning C, Python, NodeJS, Tailwind and among others.<br><br>🎯 My goal is to become as productive and autonomous as possible i can be as a developer and i'm always willing to learn more about tech and software.<br><br>📩 Reach me via E-Mail: diogolbsilva2006@gmail.com</p>
 
 ###
 
@@ -25,14 +25,11 @@
   <a href="https://instagram.com/sylvz._" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="diogolbsilva@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">My tech stack</h2>
 
 ###
 

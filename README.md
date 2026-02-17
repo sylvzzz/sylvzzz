@@ -16,6 +16,8 @@
 
 ###
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sylvzzz&layout=compact)
+
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsylvzzz%2Fsylvzzz&label=VISITORS&countColor=%23263759)
 
 ###

@@ -16,12 +16,6 @@
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sylvzzz)](https://git.io/streak-stats)
-
-###
-
-###
-
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsylvzzz%2Fsylvzzz&label=VISITORS&countColor=%23263759)
 
 ###

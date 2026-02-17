@@ -16,7 +16,7 @@
 
 ###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sylvzzz&layout=compact&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sylvzzz)](https://git.io/streak-stats)
 
 ###
 

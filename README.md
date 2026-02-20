@@ -11,7 +11,7 @@
 ###
 
 <p align="left">✨ 🔭 I’m currently focusing on 42 common core and personal projects.<br><br>📚  I’m currently learning mainly C and Python at 42, and to keep up with my passion of Web Development NodeJS, Tailwind and React.<br><br>🎯 My goal is to become as productive and autonomous as possible. I'm always willing to learn more about tech and software.<br><br>📩 Reach me via E-Mail: 
-<a href="mailto:diogolbsilva2006@gmail.com"></a></p>
+<a href="mailto:diogolbsilva2006@gmail.com">diogolbsilva2006@gmail.com</a></p>
 
 ###
 

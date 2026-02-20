@@ -35,7 +35,7 @@
 
 ###
 
-<h2 align="left">My tech stack</h2>
+<h1 align="left">My tech stack</h1>
 
 ###
 

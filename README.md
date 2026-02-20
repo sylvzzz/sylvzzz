@@ -39,9 +39,10 @@
 
 ###
 
-<div align="left">
+###
 <h3 align="left">🖥️ Frontend</h3>
-<div>
+###
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
@@ -49,8 +50,10 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
 </div>
 
+###
 <h3 align="left">⚙️ Backend</h3>
-<div>
+###
+<div align="left">
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />  
@@ -60,8 +63,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
 </div>
 
+###
 <h3 align="left">🛠️ DevOps & Tools</h3>
-<div>
+###
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" />
@@ -69,8 +74,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" />
 </div>
-</div>
-
 ###
 
 ###

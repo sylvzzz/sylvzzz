@@ -41,6 +41,7 @@
 
 <div align="left">
 <h3 align="left">🖥️ Frontend</h3>
+---
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
@@ -50,6 +51,7 @@
 </div>
 
 <h3 align="left">⚙️ Backend</h3>
+---
 <div>
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
@@ -61,6 +63,7 @@
 </div>
 
 <h3 align="left">🛠️ DevOps & Tools</h3>
+---
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />

@@ -41,7 +41,7 @@
 
 ###
 
-<h3 align="left">Front-End</h3>
+<h2 align="left">Front-End</h2>
 
 ###
 <div>
@@ -54,7 +54,7 @@
 
 ###
 
-<h3 align="left">Back-End</h3>
+<h2 align="left">Back-End</h2>
 
 ###
 <div>
@@ -69,7 +69,7 @@
 
 ###
 
-<h3 align="left">Dev-Ops and Others</h3>
+<h2 align="left">Dev-Ops and Others</h2>
 
 ###
 <div>

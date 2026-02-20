@@ -39,7 +39,6 @@
 
 ###
 
-###
 <h3 align="left">🖥️ Frontend</h3>
 ###
 <div align="left">
@@ -50,7 +49,6 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
 </div>
 
-###
 <h3 align="left">⚙️ Backend</h3>
 ###
 <div align="left">
@@ -63,7 +61,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
 </div>
 
-###
 <h3 align="left">🛠️ DevOps & Tools</h3>
 ###
 <div align="left">
@@ -74,7 +71,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" />
 </div>
-###
 
 ###
 

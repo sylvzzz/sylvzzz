@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Im a junior software developer focused on full stack web development studying at 42 Lisboa.</p>
+<p align="left">Im a 19 year old software developer focused on full stack web development studying at 42 Lisboa.</p>
 
 ###
 

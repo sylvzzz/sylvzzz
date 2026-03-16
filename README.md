@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ 📚 I’m currently focusing on 42 common core and personal projects, learning mainly C and Python at 42, and to keep up with my passion of Web Development NodeJS, Tailwind and React.<br><br>📩 For more info check :
+<p align="left">✨ 📚 I’m currently focusing on 42 common core and personal projects, learning mainly C and Python at 42, and to keep up with my passion of Web Development NodeJS, Tailwind and React.<br><br>📩 For more info check 
 <a href="https://diogo-lb-silva.vercel.app" target="_blank" >my website</a>
 
 ###

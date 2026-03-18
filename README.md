@@ -106,7 +106,7 @@
 
 ###
 
-| Project Name | Key Concepts | Grade | Languages/tech used |
+| Project Name | Key Concepts | Languages/tech used |
 |:---:|:---:|:---:|
 | [**Reuniões AL**](https://github.com/sylvzzz/Plataforma-de-Agenda) | Simple Full Stack `CRUD` WebApp similar to google calendar for scheduling meetings | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40" height="40"/>|
 | [**Plano Anual de Atividades**](https://github.com/sylvzzz/Plano-Anual-de-Atividades) | Simple Full Stack `CRUD` WebApp similar to google calendar for student activities | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40" height="40"/>| |

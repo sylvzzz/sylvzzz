@@ -11,7 +11,7 @@
 ###
 
 <p align="left">✨ 📚 I’m currently focusing on 42 common core and personal projects, learning mainly C and Python at 42</p>
-<p align="left">Pratical experience in developing, managing and deploying Full Stack Web Applications using LAMP stack (Linux Apache MySQL and PHP) and more modern technologies like NodeJS, Tailwind and React.</p><br>📩 For more info check 
+<p align="left">Pratical experience in developing, managing and deploying Full Stack Web Applications using LAMP stack (Linux Apache MySQL and PHP) and more modern technologies like NodeJS, Tailwind and React.</p>📩 For more info check 
 <a href="https://diogo-lb-silva.vercel.app" target="_blank" >my website</a>
 
 ###

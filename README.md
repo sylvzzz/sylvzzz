@@ -134,3 +134,19 @@
   [**A-maze-ing**](https://github.com/sylvzzz/a-maze-ing) | 42 common core project that consists in a Maze generator and solver focused on efficient algorithms and clean code design, implementing optimized pathfinding techniques to build and solve complex mazes.| work in progress... | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> |
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/dbotelho?1337Badge=off&UM6P=off" alt="dbotelho's 42 stats" /></a>
+
+
+<!-- This is a comment 
+<table>
+  <tr>
+    <td style="width:50%; padding: 10px;">
+      <img 
+        src="https://my-readme-stats.vercel.app/api/top-langs/?username=sylvzzz&layout=compact&theme=nord&hide_border=true&bg_color=2e3440&title_color=88c0d0&text_color=eceff4&langs_count=8" 
+        alt="Top Languages" 
+        width="100%" 
+        style="max-width:100%; height:220px; object-fit:contain;"
+      />
+    </td>
+  </tr>
+</table>
+-->

@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Im a 19 year old software developer focused on full stack web development studying at <strong>42 Lisboa</strong>.</p>
+<p align="left">Im a 19 year old full stack developer focused on web development and studying at <strong>42 Lisboa</strong>.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ 📚 I’m currently focusing on 42 common core and personal projects, learning mainly C and Python at 42</p>
+<p align="left">I’m currently focusing on the 42 common core project <a href="https://github.com/Fly-in">Fly-in</a> and a personal project about managing friend's debt's called <a href="https://github.com/FrienDebt">FrienDebt</a> </p>
 <p align="left">Pratical experience in developing, managing and deploying Full Stack Web Applications using LAMP stack (Linux Apache MySQL and PHP) and more modern technologies like NodeJS, Tailwind and React.</p>📩 For more info check 
 <a href="https://diogo-lb-silva.vercel.app" target="_blank" >my website</a>
 

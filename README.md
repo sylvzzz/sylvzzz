@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">Im a 19 year old full stack developer, fan of cloud, web, readable code and efficient solutions. Focusing on studying at <strong>42 Lisboa</strong>.</p>
+<p align="left">Im a 19 year old full stack developer, fan of cloud, web development, readable code and efficient solutions.</p>
+<p align="left">Focusing on studying at <strong>42 Lisboa</strong>.</p>
 
 ###
 

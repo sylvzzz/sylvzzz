@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Im a 19 year old full stack developer focused on web development and studying at <strong>42 Lisboa</strong>.</p>
+<p align="left">Im a 19 year old full stack developer, fan of cloud, readable code and efficient solutions. Focusing on studying at <strong>42 Lisboa</strong>.</p>
 
 ###
 

@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">I’m currently focusing on the 42 common core project <a href="https://github.com/sylvzzz/codexion" target="_blank"> Codexion</a> about concurrent programming, POSIX threads and mutexes, and a freelance project of an e-commerce shop for a fitness company </p>
+<p align="left">I’m currently focusing on the 42 common core project <a href="https://github.com/sylvzzz/netpractice" target="_blank"> Codexion</a> that focuses on TCP/IP protocol, subnet masks, basicly networks as a whole, and a AI Worskpace SaaS called <a href="https://github.com/sylvzzz/lumio" target="_blank">Lumio</a></p>
 <p align="left">Pratical experience in developing, managing and deploying Full Stack Web Applications using LAMP stack (Linux, Apache, MySQL and PHP) and more modern technologies such as Node.js, Tailwind CSS and React.js .</p>📩 For more info check 
 <a href="https://diogo-lb-silva.vercel.app" target="_blank" >my website</a></p>
 </p>

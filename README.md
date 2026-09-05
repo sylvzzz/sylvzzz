@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Im a 19 year old backend developer, fan of cloud, readable code and efficient solutions.</p>
+<p align="left">Im a 19 year old backend developer, fan of infrastructure, systems, readable code and efficient solutions.</p>
 <p align="left">Focusing on studying at <strong>42 Lisboa</strong> and looking for my first internship.</p>
 
 ###

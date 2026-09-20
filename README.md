@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Im a 19 year old backend developer, fan of infrastructure, systems, readable code and efficient solutions.</p>
+<p align="left">Im a software engineering student and full stack developer, fan of infrastructure, systems, readable code and efficient solutions.</p>
 <p align="left">I am studying at <strong>42 Lisboa</strong> and looking for my first internship.</p>
 
 ###
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">I’m currently focusing on the 42 common core project <a href="https://github.com/sylvzzz/netpractice" target="_blank"> NetPractice</a> that focuses on TCP/IP protocol, subnet masks, basicly networks as a whole, and a AI Worskpace SaaS called <a href="https://github.com/sylvzzz/lumio" target="_blank">Lumio</a></p>
+<p align="left">I’m currently focusing on the 42 common core project <a href="https://github.com/sylvzzz/pacman" target="_blank"> Pac-man</a> that focuses on rebuilding the famous arcade game pacman with a clean OOP code base.</p>
 <p align="left">Pratical experience in developing, managing and deploying Full Stack Web Applications using LAMP stack (Linux, Apache, MySQL and PHP) and more modern technologies such as Node.js, Tailwind CSS and React.js .</p>📩 For more info check 
 <a href="https://sylvzzz.dev" target="_blank" >my website</a></p>
 </p>

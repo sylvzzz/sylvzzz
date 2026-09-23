@@ -12,7 +12,7 @@
 ###
 
 <p align="left">I’m currently focusing on the 42 common core project <a href="https://github.com/sylvzzz/pacman" target="_blank"> Pac-man</a> that focuses on rebuilding the famous arcade game pacman with a clean OOP code base.</p>
-<p align="left">Pratical experience in developing, managing and deploying Full Stack Web Applications using LAMP stack (Linux, Apache, MySQL and PHP) and more modern technologies such as Node.js, Tailwind CSS and React.js .</p>📩 For more info check 
+<p align="left">Pratical experience in developing, managing and deploying Full Stack Web Applications from End to End, using LAMP stack (Linux, Apache, MySQL and PHP) and more modern technologies such as Node.js, Tailwind CSS and React.js, using modern infrastructure like GCP, Docker, Nginx, SSH, Firewalls, GitHub Actions, Cloudflare and Windows Server.</p>📩 For more info check 
 <a href="https://sylvzzz.dev" target="_blank" >my website</a></p>
 </p>
 <a href="https://leetcode.com/u/sylvzzz/" target="_blank" >My leetcode profile</a></p>

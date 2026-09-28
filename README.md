@@ -16,6 +16,7 @@
 <a href="https://sylvzzz.dev" target="_blank" >my website</a></p>
 </p>
 <a href="https://leetcode.com/u/sylvzzz/" target="_blank" >My leetcode profile</a></p>
+<a href="https://profile-v3.intra.42.fr/users/dbotelho" target="_blank" >My 42 intra profile</a></p>
 
 ###
 

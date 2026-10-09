@@ -3,7 +3,7 @@
 ###
 
 <p align="left">Im a software engineering student and full stack developer, fan of infrastructure, systems, readable code and efficient solutions.</p>
-<p align="left">I am studying at <strong>42 Lisboa</strong> and looking for my first internship.</p>
+<p align="left">I am studying at <strong>42 Lisboa</strong> and currently looking for an oppurtunity in Cloud/DevOps, Backend or Full Stack</p>
 
 ###
 

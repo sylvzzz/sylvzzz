@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">I’m currently focusing on the 42 common core project <a href="https://github.com/sylvzzz/pacman" target="_blank"> Pac-man</a> that focuses on rebuilding the famous arcade game pacman with a clean OOP code base.</p>
+<p align="left">I’m currently focusing on the 42 common core project <a href="https://github.com/sylvzzz/42-rag" target="_blank"> RAG aggainst the machine</a> that focuses on building and RAG pipeline to allow a Local AI to answer questions about the current codebase.</p>
 <p align="left">Hands-on experience building, deploying, and maintaining full-stack applications, with a strong focus on backend development, cloud infrastructure, DevOps, and systems. Experienced with technologies including Node.js, React, Docker, PostgreSQL, Google Cloud, C, Python, and Go, with practical experience in networking, system administration, and CI/CD.</p>📩 For more info check 
 <a href="https://sylvzzz.dev" target="_blank" >my website</a></p>
 </p>

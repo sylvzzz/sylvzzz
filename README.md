@@ -2,6 +2,12 @@
 
 ###
 
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://media1.tenor.com/m/RWJlrcyxAvgAAAAd/makiplays-retrowave.gif"  />
+</div>
+
+###
+
 <p align="left">Im a software engineering student and full stack developer, fan of infrastructure, systems, readable code and efficient solutions.</p>
 <p align="left">I am studying at <strong>42 Lisboa</strong> and currently looking for an oppurtunity in Cloud/DevOps, Backend or Full Stack</p>
 

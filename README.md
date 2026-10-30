@@ -1,15 +1,18 @@
-<h1 align="left">Hey 👋 I'm Diogo</h1>
+# Hey 👋 I'm Diogo <img src="src/f1.gif" width="55">
+###
 
 ###
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media1.tenor.com/m/RWJlrcyxAvgAAAAd/makiplays-retrowave.gif"  />
-</div>
+
+<!--
+![](src/laserwave.gif)
+-->
+<!--
+![](src/f1.gif)
+-->
+
 
 ###
-
-<p align="left">Im a software engineering student and full stack developer, fan of infrastructure, systems, readable code and efficient solutions.</p>
-<p align="left">I am studying at <strong>42 Lisboa</strong> and currently looking for an oppurtunity in Cloud/DevOps, Backend or Full Stack</p>
 
 ###
 
@@ -17,9 +20,16 @@
 
 ###
 
+<p align="left">Im a software engineering student and full stack developer, fan of infrastructure, systems, readable code and efficient solutions.</p>
+<p align="left">I am studying at <strong>42 Lisboa</strong> and currently looking for an oppurtunity in Cloud/DevOps, Backend or Full Stack</p>
+
 <p align="left">I’m currently focusing on the 42 common core project <a href="https://github.com/sylvzzz/inception" target="_blank"> Inception</a> that focuses on building a real secure infrastructure using Docker, NGINX (with SSL/TLS), MariaDB and Wordpress.</p>
-<p align="left">Hands-on experience building, deploying, and maintaining full-stack applications, with a strong focus on backend development, cloud infrastructure, DevOps, and systems. Experienced with technologies including Node.js, React, Docker, PostgreSQL, Google Cloud, C, Python, and Go, with practical experience in networking, system administration, and CI/CD.</p>📩 For more info check 
+
+<p align="left">I have hands-on experience building, deploying, and maintaining full-stack applications, with a strong focus on backend development, cloud infrastructure and DevOps. 
+
+Experienced with C, Python, and Go, JavaScript/TypeScript, Docker, MySQL/PostgreSQL, Google Cloud, Linux environments and networking.</p>📩 For more info check 
 <a href="https://sylvzzz.dev" target="_blank" >my website</a></p>
+
 </p>
 <a href="https://leetcode.com/u/sylvzzz/" target="_blank" >My leetcode profile</a></p>
 <a href="https://profile-v3.intra.42.fr/users/dbotelho" target="_blank" >My 42 intra profile</a></p>
@@ -164,7 +174,10 @@
 
 <br/>
 
+<!--  isto n ta a funcionar
+
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/dbotelho?1337Badge=off&UM6P=off" alt="dbotelho's 42 stats" /></a>
+--> 
 
 
 <!-- This is a comment 

@@ -24,7 +24,7 @@
 <p align="left">I am studying at <strong>42 Lisboa</strong> and currently looking for an oppurtunity in Cloud/DevOps, Backend or Full Stack. Currently focusing on the 42 common core project <a href="https://github.com/sylvzzz/inception" target="_blank"> Inception</a> that focuses on building a real secure infrastructure using Docker, NGINX (with SSL/TLS), MariaDB and Wordpress.</p>
 
 <p align="left">Experienced with C, Python, and Go, JavaScript/TypeScript, Docker, MySQL/PostgreSQL, Google Cloud, Linux environments and networking.</p>📩 For more info check 
-<a href="https://sylvzzz.dev" target="_blank" >my website</a></p>
+<a href="https://sylvzzz.dev" target="_blank" >my website (trust me, you wont regret checking it out)</a></p>
 
 </p>
 

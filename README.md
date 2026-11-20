@@ -21,7 +21,7 @@
 ###
 
 <p align="left">Im a software engineering student and full stack developer, fan of infrastructure, readable code and efficient solutions.</p>
-<p align="left">I am studying at <strong>42 Lisboa</strong> and currently looking for an oppurtunity in Cloud/DevOps, Backend or AI Engineer. Currently focusing on my <a href="https://github.com/sylvzzz/lumio" target="_blank"> Lumio</a> project that is essentially my AI assistant that helps organize my schedule and answer my questions based on my files, calendar, emails, notes and tasks, while giving me a quick summary every morning on my whatsapp.</p>
+<p align="left">I am studying at <strong>42 Lisboa</strong> and currently looking for an oppurtunity in Cloud/DevOps, Backend or AI Engineer. Currently focusing on the 42 curriculum project <a href="https://github.com/sylvzzz/agent-smith" target="_blank"> agent-smith</a> wich consists in building a coding agent from scratch, something similar to Claude Code, Codex, OpenCode etc, opening us to to wonders of MCP, Tool calling and AI Automation</p>
 
 <p align="left">Experienced with C, Python, Go, JavaScript/TypeScript, Docker, MySQL/PostgreSQL, Google Cloud and networking.</p>📩 For more info check 
 <a href="https://sylvzzz.dev" target="_blank" >my website (trust me, you wont regret checking it out)</a></p>
